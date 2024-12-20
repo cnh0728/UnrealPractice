@@ -4,7 +4,6 @@
 
 #include "CoreMinimal.h"
 #include "GameFramework/Pawn.h"
-#include "Components/CapsuleComponent.h"
 
 #include "BasePawn.generated.h"
 
@@ -17,13 +16,25 @@ public:
 	// Sets default values for this pawn's properties
 	ABasePawn();
 
+	UPROPERTY(EditAnywhere, BlueprintReadWrite)
+	float Speed = 400.0f;
+
 protected:
 	// Called when the game starts or when spawned
 	virtual void BeginPlay() override;
 
 private:
 	UPROPERTY(EditAnywhere)
-	UCapsuleComponent* CapsuleComp;
+	class UCapsuleComponent* CapsuleComp;
+
+	UPROPERTY(EditAnywhere)
+	UStaticMeshComponent* BaseMesh;
+
+	UPROPERTY(EditAnywhere)
+	UStaticMeshComponent* TurretMesh;
+
+	UPROPERTY(EditAnywhere)
+	USceneComponent* ProjectileSpawnPoint;
 
 public:	
 	// Called every frame
