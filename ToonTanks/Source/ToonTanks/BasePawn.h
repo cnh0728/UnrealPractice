@@ -4,6 +4,8 @@
 
 #include "CoreMinimal.h"
 #include "GameFramework/Pawn.h"
+#include "Components/CapsuleComponent.h"
+
 #include "BasePawn.generated.h"
 
 UCLASS()
@@ -18,6 +20,10 @@ public:
 protected:
 	// Called when the game starts or when spawned
 	virtual void BeginPlay() override;
+
+private:
+	UPROPERTY(EditAnywhere)
+	UCapsuleComponent* CapsuleComp;
 
 public:	
 	// Called every frame
