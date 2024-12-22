@@ -34,7 +34,7 @@ void ATower::BeginPlay() {
 void ATower::CheckFireCondition() {
 	if (Tank) {
 		FVector TankLocation = Tank->GetActorLocation();
-		if (CheckInRange(TankLocation)) {
+		if (CheckInRange(TankLocation) && Tank->bAlive) {
 			Fire();
 		}
 	}

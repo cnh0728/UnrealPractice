@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ToonTanksModuleRules")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Development")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+50f6a586af86881313f6fadf812f2436760a44ff")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0ae91fc98e240088d1350e213e063a3042ce23b6")]
 [assembly: System.Reflection.AssemblyProductAttribute("ToonTanksModuleRules")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ToonTanksModuleRules")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

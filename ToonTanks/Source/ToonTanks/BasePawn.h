@@ -37,9 +37,18 @@ private:
 	UPROPERTY(VisibleAnywhere, BlueprintReadOnly, Category = "Components", meta = (AllowPrivateAccess = "true"))
 	USceneComponent* ProjectileSpawnPoint;
 
-	UPROPERTY(EditAnywhere)
-	float TurretRotateSpeed = 20.f;
+	UPROPERTY(EditAnywhere, Category="Combat")
+	class UParticleSystem* DeathParticles;
+
+	UPROPERTY(EditAnywhere, Category = "Combat")
+	class USoundBase* DeathSound;
 
 	UPROPERTY(EditDefaultsOnly, Category="Combat")
 	TSubclassOf<class AProjectile> ProjectileClass;
+
+	UPROPERTY(EditAnywhere, Category="Combat")
+	TSubclassOf<class UCameraShakeBase> DeathCameraShakeClass;
+
+	UPROPERTY(EditAnywhere)
+	float TurretRotateSpeed = 20.f;
 };
