@@ -1376,3 +1376,416 @@ _MatTransl_3B7A55D3409170328211A060FC2E3BB1E263C720_BBD650804D314CE7A44ADF9BB4F3
 [2024.12.22-09.03.40:365][705]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
 [2024.12.22-09.03.40:369][705]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
 [2024.12.22-09.03.40:447][706]LogPlayLevel: Display: Destroying online subsystem :Context_13
+[2024.12.22-09.08.32:956][712]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2818.785400
+[2024.12.22-09.08.33:956][715]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2024.12.22-09.08.33:956][715]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2819.452148, Update Interval: 352.345947
+[2024.12.22-09.14.57:010][864]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3202.839355
+[2024.12.22-09.14.58:010][867]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2024.12.22-09.14.58:010][867]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3203.505615, Update Interval: 310.219421
+[2024.12.22-09.21.04:059][965]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3569.881348
+[2024.12.22-09.21.05:060][968]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2024.12.22-09.21.05:060][968]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3570.548584, Update Interval: 323.368622
+[2024.12.22-09.23.29:697][402]LogDerivedDataCache: C:/Users/User/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2024.12.22-09.27.08:113][ 57]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3933.930176
+[2024.12.22-09.27.09:113][ 60]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2024.12.22-09.27.09:113][ 60]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3934.596680, Update Interval: 343.410126
+[2024.12.22-09.33.50:174][263]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 4336.006836
+[2024.12.22-09.33.51:174][266]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2024.12.22-09.33.51:174][266]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 4336.673340, Update Interval: 339.606934
+[2024.12.22-09.39.25:376][178]Running C:/Program Files/Epic Games/UE_5.4/Engine/Build/BatchFiles/Build.bat  -projectfiles -project="C:/Users/User/Downloads/workspace/unreal/UnrealPractice/ToonTanks/ToonTanks.uproject" -game -rocket -progress
+[2024.12.22-09.39.25:481][178]Using bundled DotNet SDK version: 6.0.302
+[2024.12.22-09.39.25:481][178]Running UnrealBuildTool: dotnet "..\..\Engine\Binaries\DotNET\UnrealBuildTool\UnrealBuildTool.dll" -projectfiles -project="C:/Users/User/Downloads/workspace/unreal/UnrealPractice/ToonTanks/ToonTanks.uproject" -game -rocket -progress
+[2024.12.22-09.39.25:783][178]Log file: C:\Users\User\AppData\Local\UnrealBuildTool\Log_GPF.txt
+[2024.12.22-09.39.25:984][178]
+[2024.12.22-09.39.25:984][178]Generating VisualStudio2022 project files:
+[2024.12.22-09.39.25:984][178]Discovering modules, targets and source code for project...
+[2024.12.22-09.39.26:989][178]Binding IntelliSense data...
+[2024.12.22-09.39.29:306][178]Binding IntelliSense data... 100%
+[2024.12.22-09.39.29:306][178]Writing project files...
+[2024.12.22-09.39.30:817][178]Writing project files... 100%
+[2024.12.22-09.39.30:817][178]
+[2024.12.22-09.39.30:817][178]Generating QueryTargets data for editor...
+[2024.12.22-09.39.30:817][178]Total execution time: 5.27 seconds
+[2024.12.22-09.39.31:027][178]LogLiveCoding: Display: Starting Live Coding compile.
+[2024.12.22-09.39.31:118][178]LogSlate: Window 'C++ 클래스 추가' being destroyed
+[2024.12.22-09.39.35:724][667]LogLiveCoding: Display:    C:\Users\User\Downloads\workspace\unreal\UnrealPractice\ToonTanks\Binaries\Win64\UnrealEditor-ToonTanks.patch_5.lib 라이브러리 및 C:\Users\User\Downloads\workspace\unreal\UnrealPractice\ToonTanks\Binaries\Win64\UnrealEditor-ToonTanks.patch_5.exp 개체를 생성하고 있습니다.
+[2024.12.22-09.39.35:832][671]LogClass: UPackage /Script/ToonTanks Reload.
+[2024.12.22-09.39.35:832][671]LogClass: Could not find existing class ToonTanksGameMode in package /Script/ToonTanks for reload, assuming new or modified class
+[2024.12.22-09.39.35:881][671]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
+[2024.12.22-09.39.36:165][672]Display: Reload/Re-instancing Complete: 1 package changed, 1 class new
+[2024.12.22-09.39.36:166][672]LogLiveCoding: Warning: Live coding succeeded, data type changes may cause packaging to fail if assets reference the new or updated data types
+[2024.12.22-09.40.17:237][913]LogContentBrowser: Deferred new asset folder creation: 새 폴더
+[2024.12.22-09.40.17:246][913]LogContentBrowser: Creating deferred item: 새 폴더
+[2024.12.22-09.40.17:256][914]LogContentBrowser: Renaming the item being created (Deferred Item: 새 폴더).
+[2024.12.22-09.40.18:897][111]LogContentBrowser: Attempting asset rename: 새 폴더 -> GameMode
+[2024.12.22-09.40.18:898][111]LogContentBrowser: End creating deferred item 새 폴더
+[2024.12.22-09.40.21:025][361]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/GameMode/BP_ToonTanksGameMode.BP_ToonTanksGameMode
+[2024.12.22-09.40.21:026][361]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM5) returned false, for scene: 'World /Engine/Transient.World_10'.
+[2024.12.22-09.40.21:169][361]LogSlate: Window '블루프린트 클래스 추가' being destroyed
+[2024.12.22-09.40.23:383][550]LogSlate: Window 'BP_ToonTanksGameMode' being destroyed
+[2024.12.22-09.40.28:972][596]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 4734.842773
+[2024.12.22-09.40.29:972][599]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2024.12.22-09.40.29:972][599]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 4735.509277, Update Interval: 332.765900
+[2024.12.22-09.40.47:738][652]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2024.12.22-09.40.47:739][652]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/Main' took 0.069
+[2024.12.22-09.40.47:739][652]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/GameMode/BP_ToonTanksGameMode] ([2] browsable assets)...
+[2024.12.22-09.40.47:739][652]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/GameMode/BP_ToonTanksGameMode]
+[2024.12.22-09.40.47:742][652]LogWorldPartition: Can't find class descriptor '/Game/Blueprints/GameMode/BP_ToonTanksGameMode.BP_ToonTanksGameMode_C' for saving '/Game/Blueprints/GameMode/BP_ToonTanksGameMode.BP_ToonTanksGameMode_C'
+[2024.12.22-09.40.47:742][652]LogWorldPartition: Can't find class descriptor '/Game/Blueprints/GameMode/BP_ToonTanksGameMode.BP_ToonTanksGameMode_C' for saving '/Game/Blueprints/GameMode/BP_ToonTanksGameMode.BP_ToonTanksGameMode_C'
+[2024.12.22-09.40.47:743][652]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/GameMode/BP_ToonTanksGameMode_Auto1
+[2024.12.22-09.40.47:743][652]LogSavePackage: Moving '../../../../../../Users/User/Downloads/workspace/unreal/UnrealPractice/ToonTanks/Saved/BP_ToonTanksGameMode_Auto1664C27994D276445E19B4CAC479158A9.tmp' to '../../../../../../Users/User/Downloads/workspace/unreal/UnrealPractice/ToonTanks/Saved/Autosaves/Game/Blueprints/GameMode/BP_ToonTanksGameMode_Auto1.uasset'
+[2024.12.22-09.40.47:744][652]LogFileHelpers: Auto-saving content packages took 0.004
+[2024.12.22-09.41.26:613][224]LogSlate: External Image Picker: DecompressImage failed
+[2024.12.22-09.41.35:717][917]LogSlate: Took 0.000179 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2024.12.22-09.42.00:237][387]LogSlate: Window '프로젝트 세팅' being destroyed
+[2024.12.22-09.42.00:240][387]LogSlate: Window '프로젝트 세팅' being destroyed
+[2024.12.22-09.42.05:167][493]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM5) returned false, for scene: 'World /Engine/Transient.World_11'.
+[2024.12.22-09.42.37:265][991]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.22-09.42.37:302][991]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/GameMode/BP_ToonTanksGameMode] ([2] browsable assets)...
+[2024.12.22-09.42.37:302][991]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/GameMode/BP_ToonTanksGameMode]
+[2024.12.22-09.42.37:304][991]LogWorldPartition: Can't find class descriptor '/Game/Blueprints/GameMode/BP_ToonTanksGameMode.BP_ToonTanksGameMode_C' for saving '/Game/Blueprints/GameMode/BP_ToonTanksGameMode.BP_ToonTanksGameMode_C'
+[2024.12.22-09.42.37:304][991]LogWorldPartition: Can't find class descriptor '/Game/Blueprints/GameMode/BP_ToonTanksGameMode.BP_ToonTanksGameMode_C' for saving '/Game/Blueprints/GameMode/BP_ToonTanksGameMode.BP_ToonTanksGameMode_C'
+[2024.12.22-09.42.37:305][991]LogSavePackage: Moving output files for package: /Game/Blueprints/GameMode/BP_ToonTanksGameMode
+[2024.12.22-09.42.37:305][991]LogSavePackage: Moving '../../../../../../Users/User/Downloads/workspace/unreal/UnrealPractice/ToonTanks/Saved/BP_ToonTanksGameMode503A93414BA2C02CCC4DFBBEAF8B11C5.tmp' to '../../../../../../Users/User/Downloads/workspace/unreal/UnrealPractice/ToonTanks/Content/Blueprints/GameMode/BP_ToonTanksGameMode.uasset'
+[2024.12.22-09.42.37:314][991]LogFileHelpers: InternalPromptForCheckoutAndSave took 48.547 ms (total: 224.207 ms)
+[2024.12.22-09.42.37:366][991]LogContentValidation: Display: Starting to validate 1 assets
+[2024.12.22-09.42.37:366][991]LogContentValidation: Enabled validators:
+[2024.12.22-09.42.37:366][991]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.12.22-09.42.37:366][991]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.12.22-09.42.37:366][991]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.12.22-09.42.37:367][991]LogContentValidation: Display: Validating asset /Game/Blueprints/GameMode/BP_ToonTanksGameMode.BP_ToonTanksGameMode
+[2024.12.22-09.42.37:367][991]AssetCheck: /Game/Blueprints/GameMode/BP_ToonTanksGameMode 에셋 유효성 검사 중
+[2024.12.22-09.42.37:828][ 41]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2024.12.22-09.43.23:086][177]Cmd: DELETE
+[2024.12.22-09.43.23:086][177]Cmd: ACTOR DELETE
+[2024.12.22-09.43.23:089][177]LogEditorActor: Deleted Actor: BP_PawnTank_C
+[2024.12.22-09.43.23:106][177]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2024.12.22-09.43.23:114][177]LogEditorActor: Deleted 1 Actors (0.027 secs)
+[2024.12.22-09.44.42:123][514]LogBlueprint: Warning: [AssetLog] C:\Users\User\Downloads\workspace\unreal\UnrealPractice\ToonTanks\Content\Blueprints\Pawns\BP_PawnTank.uasset: [Compiler] 예기치 않게 클래스의 소유가 아니므로 SCS 노드 컴포넌트 템플릿 Health 재생성되었습니다.
+[2024.12.22-09.44.42:244][514]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2024.12.22-09.44.42:668][515]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2024.12.22-09.44.47:116][999]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.22-09.44.47:168][999]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/Pawns/BP_PawnTank] ([2] browsable assets)...
+[2024.12.22-09.44.47:173][999]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/Pawns/BP_PawnTank.BP_PawnTank]
+[2024.12.22-09.44.47:173][999]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Pawns/BP_PawnTank]
+[2024.12.22-09.44.47:177][999]LogSavePackage: Moving output files for package: /Game/Blueprints/Pawns/BP_PawnTank
+[2024.12.22-09.44.47:178][999]LogSavePackage: Moving '../../../../../../Users/User/Downloads/workspace/unreal/UnrealPractice/ToonTanks/Saved/BP_PawnTank2AA2085C4D5F98B32421529964C699E9.tmp' to '../../../../../../Users/User/Downloads/workspace/unreal/UnrealPractice/ToonTanks/Content/Blueprints/Pawns/BP_PawnTank.uasset'
+[2024.12.22-09.44.47:186][999]LogFileHelpers: InternalPromptForCheckoutAndSave took 69.782 ms (total: 293.989 ms)
+[2024.12.22-09.44.47:234][999]LogContentValidation: Display: Starting to validate 1 assets
+[2024.12.22-09.44.47:234][999]LogContentValidation: Enabled validators:
+[2024.12.22-09.44.47:234][999]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.12.22-09.44.47:234][999]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.12.22-09.44.47:234][999]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.12.22-09.44.47:234][999]LogContentValidation: Display: Validating asset /Game/Blueprints/Pawns/BP_PawnTank.BP_PawnTank
+[2024.12.22-09.44.47:234][999]AssetCheck: /Game/Blueprints/Pawns/BP_PawnTank 에셋 유효성 검사 중
+[2024.12.22-09.46.49:867][749]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5115.763184
+[2024.12.22-09.46.50:866][752]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2024.12.22-09.46.50:866][752]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5116.429199, Update Interval: 322.022766
+[2024.12.22-09.50.48:296][464]LogUObjectHash: Compacting FUObjectHashTables data took   1.19ms
+[2024.12.22-09.50.48:312][464]LogWorldPartition: Can't find class descriptor '/Game/Maps/Main.Main_C' for saving '/Game/Maps/Main.Main_C'
+[2024.12.22-09.50.48:313][464]LogWorldPartition: Can't find class descriptor '/Game/Maps/Main.Main_C' for saving '/Game/Maps/Main.Main_C'
+[2024.12.22-09.50.48:318][464]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Maps/Main_Auto2
+[2024.12.22-09.50.48:319][464]LogSavePackage: Moving '../../../../../../Users/User/Downloads/workspace/unreal/UnrealPractice/ToonTanks/Saved/Main_Auto23A92C4A1490D48B2A38246ACFC735E2E.tmp' to '../../../../../../Users/User/Downloads/workspace/unreal/UnrealPractice/ToonTanks/Saved/Autosaves/Game/Maps/Main_Auto2.umap'
+[2024.12.22-09.50.48:321][464]LogAssetRegistry: Warning: ScanPathsSynchronous: ../../../../../../Users/User/Downloads/workspace/unreal/UnrealPractice/ToonTanks/Saved/Autosaves/Game/Maps/Main_Auto2.umap is in the /Temp path, will not scan.
+[2024.12.22-09.50.48:321][464]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/Main' took 0.038
+[2024.12.22-09.50.48:321][464]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.038
+[2024.12.22-09.52.58:249][854]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5484.182129
+[2024.12.22-09.52.59:249][857]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2024.12.22-09.52.59:249][857]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5484.849121, Update Interval: 301.325714
+[2024.12.22-09.58.55:292][925]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5841.262207
+[2024.12.22-09.58.56:292][928]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2024.12.22-09.58.56:292][928]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5841.929199, Update Interval: 307.148651
+[2024.12.22-10.04.44:335][972]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 6190.316406
+[2024.12.22-10.04.45:334][975]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2024.12.22-10.04.45:334][975]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 6190.983398, Update Interval: 300.672028
+[2024.12.22-10.10.27:051][  0]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 6533.030762
+[2024.12.22-10.10.28:052][  3]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2024.12.22-10.10.28:052][  3]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 6533.698242, Update Interval: 304.358032
+[2024.12.22-10.16.18:768][ 55]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 6884.752441
+[2024.12.22-10.16.19:768][ 58]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2024.12.22-10.16.19:768][ 58]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 6885.418945, Update Interval: 341.388580
+[2024.12.22-10.20.01:127][722]LogEOSSDK: LogEOSAuth: Refreshing authentication session. AccessTokenExpired: No RefreshRequired: Yes VerifyRequired: No UserId: f27...212
+[2024.12.22-10.20.01:127][722]LogEOSSDK: LogEOSAuth: Refresh authentication session. AuthState: 1 AccessExpires: 99.77 RefreshExpires: 1.554e+07
+[2024.12.22-10.20.02:127][725]LogEOSSDK: LogEOSAuth: UpdateUserAuthToken: User ClientId: xyz...459 AccountId: f27...212 Access[Expires: 2024.12.22-12.20.01 Remaining: 7200.16] Refresh[Expires: 2025-06-20T05:39:11.183Z Remaining: 15535150.18] State: Valid
+[2024.12.22-10.22.46:714][219]LogLiveCoding: Display: Starting Live Coding compile.
+[2024.12.22-10.22.50:480][230]Display: Reload/Re-instancing Complete: No object changes detected
+[2024.12.22-10.22.50:480][230]LogLiveCoding: Error: Live coding failed, please see Live console for more information
+[2024.12.22-10.22.56:813][249]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 7282.815430
+[2024.12.22-10.22.57:814][252]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2024.12.22-10.22.57:814][252]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 7283.482422, Update Interval: 344.972076
+[2024.12.22-10.23.02:522][267]LogLiveCoding: Display: Starting Live Coding compile.
+[2024.12.22-10.23.12:382][296]LogLiveCoding: Display:    C:\Users\User\Downloads\workspace\unreal\UnrealPractice\ToonTanks\Binaries\Win64\UnrealEditor-ToonTanks.patch_6.lib 라이브러리 및 C:\Users\User\Downloads\workspace\unreal\UnrealPractice\ToonTanks\Binaries\Win64\UnrealEditor-ToonTanks.patch_6.exp 개체를 생성하고 있습니다.
+[2024.12.22-10.23.12:561][296]LogClass: UClass ToonTanksGameMode Reload.
+[2024.12.22-10.23.12:561][296]LogClass: UClass HealthComponent Reload.
+[2024.12.22-10.23.12:561][296]LogClass: Could not find existing class ToonTanksGameMode in package /Script/ToonTanks for reload, assuming new or modified class
+[2024.12.22-10.23.12:562][296]LogClass: Could not find existing class HealthComponent in package /Script/ToonTanks for reload, assuming new or modified class
+[2024.12.22-10.23.12:564][296]LogClass: Function DamageTaken is new or belongs to a modified class.
+[2024.12.22-10.23.12:576][296]Re-instancing ToonTanksGameMode after reload.
+[2024.12.22-10.23.12:601][296]Re-instancing HealthComponent after reload.
+[2024.12.22-10.23.12:731][296]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2024.12.22-10.23.13:118][297]Display: Reload/Re-instancing Complete: 2 classes changed, 3 classes unchanged
+[2024.12.22-10.23.13:118][297]LogLiveCoding: Warning: Live coding succeeded, data type changes may cause packaging to fail if assets reference the new or updated data types
+[2024.12.22-10.23.29:697][348]LogDerivedDataCache: C:/Users/User/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2024.12.22-10.25.00:485][947]Running C:/Program Files/Epic Games/UE_5.4/Engine/Build/BatchFiles/Build.bat  -projectfiles -project="C:/Users/User/Downloads/workspace/unreal/UnrealPractice/ToonTanks/ToonTanks.uproject" -game -rocket -progress
+[2024.12.22-10.25.00:589][947]Using bundled DotNet SDK version: 6.0.302
+[2024.12.22-10.25.00:589][947]Running UnrealBuildTool: dotnet "..\..\Engine\Binaries\DotNET\UnrealBuildTool\UnrealBuildTool.dll" -projectfiles -project="C:/Users/User/Downloads/workspace/unreal/UnrealPractice/ToonTanks/ToonTanks.uproject" -game -rocket -progress
+[2024.12.22-10.25.00:892][947]Log file: C:\Users\User\AppData\Local\UnrealBuildTool\Log_GPF.txt
+[2024.12.22-10.25.00:992][947]
+[2024.12.22-10.25.00:992][947]Generating VisualStudio2022 project files:
+[2024.12.22-10.25.00:992][947]Discovering modules, targets and source code for project...
+[2024.12.22-10.25.02:098][947]Binding IntelliSense data...
+[2024.12.22-10.25.04:312][947]Binding IntelliSense data... 100%
+[2024.12.22-10.25.04:313][947]Writing project files...
+[2024.12.22-10.25.05:722][947]Writing project files... 100%
+[2024.12.22-10.25.05:722][947]
+[2024.12.22-10.25.05:722][947]Generating QueryTargets data for editor...
+[2024.12.22-10.25.05:722][947]Total execution time: 5.14 seconds
+[2024.12.22-10.25.06:029][947]LogLiveCoding: Display: Starting Live Coding compile.
+[2024.12.22-10.25.06:126][947]LogSlate: Window 'C++ 클래스 추가' being destroyed
+[2024.12.22-10.25.10:521][412]LogLiveCoding: Display:    C:\Users\User\Downloads\workspace\unreal\UnrealPractice\ToonTanks\Binaries\Win64\UnrealEditor-ToonTanks.patch_7.lib 라이브러리 및 C:\Users\User\Downloads\workspace\unreal\UnrealPractice\ToonTanks\Binaries\Win64\UnrealEditor-ToonTanks.patch_7.exp 개체를 생성하고 있습니다.
+[2024.12.22-10.25.10:648][416]LogClass: UPackage /Script/ToonTanks Reload.
+[2024.12.22-10.25.10:648][416]LogClass: Could not find existing class ToonTanksPlayerController in package /Script/ToonTanks for reload, assuming new or modified class
+[2024.12.22-10.25.10:756][416]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2024.12.22-10.25.11:040][417]Display: Reload/Re-instancing Complete: 1 package changed, 1 class new
+[2024.12.22-10.25.11:040][417]LogLiveCoding: Warning: Live coding succeeded, data type changes may cause packaging to fail if assets reference the new or updated data types
+[2024.12.22-10.25.29:932][610]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/GameMode/MyToonTanksPlayerController.MyToonTanksPlayerController
+[2024.12.22-10.25.29:933][610]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM5) returned false, for scene: 'World /Engine/Transient.World_12'.
+[2024.12.22-10.25.29:989][610]LogSlate: Window '블루프린트 클래스 추가' being destroyed
+[2024.12.22-10.25.33:734][848]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.22-10.25.33:790][848]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/GameMode/MyToonTanksPlayerController] ([2] browsable assets)...
+[2024.12.22-10.25.33:790][848]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/GameMode/MyToonTanksPlayerController]
+[2024.12.22-10.25.33:791][848]LogWorldPartition: Can't find class descriptor '/Game/Blueprints/GameMode/MyToonTanksPlayerController.MyToonTanksPlayerController_C' for saving '/Game/Blueprints/GameMode/MyToonTanksPlayerController.MyToonTanksPlayerController_C'
+[2024.12.22-10.25.33:791][848]LogWorldPartition: Can't find class descriptor '/Game/Blueprints/GameMode/MyToonTanksPlayerController.MyToonTanksPlayerController_C' for saving '/Game/Blueprints/GameMode/MyToonTanksPlayerController.MyToonTanksPlayerController_C'
+[2024.12.22-10.25.33:793][848]LogSavePackage: Moving output files for package: /Game/Blueprints/GameMode/MyToonTanksPlayerController
+[2024.12.22-10.25.33:793][848]LogSavePackage: Moving '../../../../../../Users/User/Downloads/workspace/unreal/UnrealPractice/ToonTanks/Saved/MyToonTanksPlayerControllerA30DFABE42DCB00FD787139D2710A776.tmp' to '../../../../../../Users/User/Downloads/workspace/unreal/UnrealPractice/ToonTanks/Content/Blueprints/GameMode/MyToonTanksPlayerController.uasset'
+[2024.12.22-10.25.33:805][848]LogFileHelpers: InternalPromptForCheckoutAndSave took 70.173 ms (total: 364.162 ms)
+[2024.12.22-10.25.33:840][848]LogContentValidation: Display: Starting to validate 1 assets
+[2024.12.22-10.25.33:840][848]LogContentValidation: Enabled validators:
+[2024.12.22-10.25.33:840][848]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.12.22-10.25.33:840][848]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.12.22-10.25.33:840][848]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.12.22-10.25.33:840][848]LogContentValidation: Display: Validating asset /Game/Blueprints/GameMode/MyToonTanksPlayerController.MyToonTanksPlayerController
+[2024.12.22-10.25.33:840][848]AssetCheck: /Game/Blueprints/GameMode/MyToonTanksPlayerController 에셋 유효성 검사 중
+[2024.12.22-10.25.35:455][ 37]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.22-10.25.35:490][ 37]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Main" FILE="../../../../../../Users/User/Downloads/workspace/unreal/UnrealPractice/ToonTanks/Content/Maps/Main.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.12.22-10.25.35:599][ 37]LogUObjectHash: Compacting FUObjectHashTables data took   1.49ms
+[2024.12.22-10.25.35:605][ 37]LogWorldPartition: Can't find class descriptor '/Game/Maps/Main.Main_C' for saving '/Game/Maps/Main.Main_C'
+[2024.12.22-10.25.35:605][ 37]LogWorldPartition: Can't find class descriptor '/Game/Maps/Main.Main_C' for saving '/Game/Maps/Main.Main_C'
+[2024.12.22-10.25.35:612][ 37]LogSavePackage: Moving output files for package: /Game/Maps/Main
+[2024.12.22-10.25.35:612][ 37]LogSavePackage: Moving '../../../../../../Users/User/Downloads/workspace/unreal/UnrealPractice/ToonTanks/Saved/Main6973BF1F4CD4C28CE20649895728351D.tmp' to '../../../../../../Users/User/Downloads/workspace/unreal/UnrealPractice/ToonTanks/Content/Maps/Main.umap'
+[2024.12.22-10.25.35:618][ 37]LogFileHelpers: 모든 파일이 이미 저장되었습니다.
+[2024.12.22-10.25.35:618][ 37]LogFileHelpers: Saving map 'Main' took 0.129
+[2024.12.22-10.25.35:627][ 37]LogFileHelpers: InternalPromptForCheckoutAndSave took 171.637 ms (total: 535.800 ms)
+[2024.12.22-10.25.35:671][ 37]LogContentValidation: Display: Starting to validate 1 assets
+[2024.12.22-10.25.35:671][ 37]LogContentValidation: Enabled validators:
+[2024.12.22-10.25.35:671][ 37]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.12.22-10.25.35:671][ 37]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.12.22-10.25.35:671][ 37]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.12.22-10.25.35:671][ 37]LogContentValidation: Display: Validating asset /Game/Maps/Main.Main
+[2024.12.22-10.25.35:672][ 37]AssetCheck: /Game/Maps/Main 에셋 유효성 검사 중
+[2024.12.22-10.25.58:703][139]LogSlate: Warning: Unable to rasterize '../../../Engine/Content/Editor/Slate/Starship/AssetIcons/SpecularProfile_64.svg'. File could not be found
+[2024.12.22-10.25.59:738][249]LogContentBrowser: Deferred new asset folder creation: 새 폴더
+[2024.12.22-10.25.59:764][249]LogContentBrowser: Creating deferred item: 새 폴더
+[2024.12.22-10.25.59:773][250]LogContentBrowser: Renaming the item being created (Deferred Item: 새 폴더).
+[2024.12.22-10.26.02:352][560]LogContentBrowser: Attempting asset rename: 새 폴더 -> PlayerController
+[2024.12.22-10.26.02:352][560]LogContentBrowser: End creating deferred item 새 폴더
+[2024.12.22-10.26.37:181][667]LogMetaData: Removing '/Game/Blueprints/PlayerController/MyToonTanksPlayerController.MyToonTanksPlayerController:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/Blueprints/GameMode/MyToonTanksPlayerController.PackageMetaData'
+[2024.12.22-10.26.37:181][667]LogMetaData: Removing '/Game/Blueprints/PlayerController/MyToonTanksPlayerController.SKEL_MyToonTanksPlayerController_C:UserConstructionScript' ref from Metadata '/Game/Blueprints/GameMode/MyToonTanksPlayerController.PackageMetaData'
+[2024.12.22-10.26.37:181][667]LogMetaData: Removing '/Game/Blueprints/PlayerController/MyToonTanksPlayerController.SKEL_MyToonTanksPlayerController_C' ref from Metadata '/Game/Blueprints/GameMode/MyToonTanksPlayerController.PackageMetaData'
+[2024.12.22-10.26.37:182][667]LogMetaData: Removing '/Game/Blueprints/PlayerController/MyToonTanksPlayerController.MyToonTanksPlayerController_C' ref from Metadata '/Game/Blueprints/GameMode/MyToonTanksPlayerController.PackageMetaData'
+[2024.12.22-10.26.37:182][667]LogMetaData: Removing '/Game/Blueprints/PlayerController/MyToonTanksPlayerController.MyToonTanksPlayerController:EventGraph.K2Node_Event_0' ref from Metadata '/Game/Blueprints/GameMode/MyToonTanksPlayerController.PackageMetaData'
+[2024.12.22-10.26.37:182][667]LogMetaData: Removing '/Game/Blueprints/PlayerController/MyToonTanksPlayerController.MyToonTanksPlayerController:EventGraph.K2Node_Event_1' ref from Metadata '/Game/Blueprints/GameMode/MyToonTanksPlayerController.PackageMetaData'
+[2024.12.22-10.26.37:189][667]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.22-10.26.37:241][667]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/PlayerController/MyToonTanksPlayerController] ([2] browsable assets)...
+[2024.12.22-10.26.37:241][667]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/PlayerController/MyToonTanksPlayerController]
+[2024.12.22-10.26.37:245][667]LogSavePackage: Moving output files for package: /Game/Blueprints/PlayerController/MyToonTanksPlayerController
+[2024.12.22-10.26.37:245][667]LogSavePackage: Moving '../../../../../../Users/User/Downloads/workspace/unreal/UnrealPractice/ToonTanks/Saved/MyToonTanksPlayerController837D297A45CAEA3B33A2CA8EDE1E9CFE.tmp' to '../../../../../../Users/User/Downloads/workspace/unreal/UnrealPractice/ToonTanks/Content/Blueprints/PlayerController/MyToonTanksPlayerController.uasset'
+[2024.12.22-10.26.37:255][667]LogFileHelpers: InternalPromptForCheckoutAndSave took 65.606 ms (total: 601.406 ms)
+[2024.12.22-10.26.37:298][667]LogUObjectHash: Compacting FUObjectHashTables data took   1.44ms
+[2024.12.22-10.26.37:320][667]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2024.12.22-10.26.37:333][667]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2024.12.22-10.26.37:347][667]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2024.12.22-10.26.37:347][667]LogContentValidation: Display: Starting to validate 1 assets
+[2024.12.22-10.26.37:347][667]LogContentValidation: Enabled validators:
+[2024.12.22-10.26.37:347][667]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.12.22-10.26.37:347][667]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.12.22-10.26.37:347][667]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.12.22-10.26.37:347][667]LogContentValidation: Display: Validating asset /Game/Blueprints/PlayerController/MyToonTanksPlayerController.MyToonTanksPlayerController
+[2024.12.22-10.26.37:347][667]AssetCheck: /Game/Blueprints/PlayerController/MyToonTanksPlayerController 에셋 유효성 검사 중
+[2024.12.22-10.27.09:036][691]LogContentBrowser: Attempting asset rename: MyToonTanksPlayerController -> BP_MyToonTanksPlayerController
+[2024.12.22-10.27.09:058][691]LogMetaData: Removing '/Game/Blueprints/PlayerController/BP_MyToonTanksPlayerController.BP_MyToonTanksPlayerController_C' ref from Metadata '/Game/Blueprints/PlayerController/MyToonTanksPlayerController.PackageMetaData'
+[2024.12.22-10.27.09:058][691]LogMetaData: Removing '/Game/Blueprints/PlayerController/BP_MyToonTanksPlayerController.SKEL_BP_MyToonTanksPlayerController_C' ref from Metadata '/Game/Blueprints/PlayerController/MyToonTanksPlayerController.PackageMetaData'
+[2024.12.22-10.27.09:058][691]LogMetaData: Removing '/Game/Blueprints/PlayerController/BP_MyToonTanksPlayerController.SKEL_BP_MyToonTanksPlayerController_C:UserConstructionScript' ref from Metadata '/Game/Blueprints/PlayerController/MyToonTanksPlayerController.PackageMetaData'
+[2024.12.22-10.27.09:058][691]LogMetaData: Removing '/Game/Blueprints/PlayerController/BP_MyToonTanksPlayerController.BP_MyToonTanksPlayerController:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/Blueprints/PlayerController/MyToonTanksPlayerController.PackageMetaData'
+[2024.12.22-10.27.09:058][691]LogMetaData: Removing '/Game/Blueprints/PlayerController/BP_MyToonTanksPlayerController.BP_MyToonTanksPlayerController:EventGraph.K2Node_Event_0' ref from Metadata '/Game/Blueprints/PlayerController/MyToonTanksPlayerController.PackageMetaData'
+[2024.12.22-10.27.09:058][691]LogMetaData: Removing '/Game/Blueprints/PlayerController/BP_MyToonTanksPlayerController.BP_MyToonTanksPlayerController:EventGraph.K2Node_Event_1' ref from Metadata '/Game/Blueprints/PlayerController/MyToonTanksPlayerController.PackageMetaData'
+[2024.12.22-10.27.09:065][691]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.22-10.27.09:127][691]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/PlayerController/BP_MyToonTanksPlayerController] ([2] browsable assets)...
+[2024.12.22-10.27.09:127][691]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/PlayerController/BP_MyToonTanksPlayerController]
+[2024.12.22-10.27.09:129][691]LogSavePackage: Moving output files for package: /Game/Blueprints/PlayerController/BP_MyToonTanksPlayerController
+[2024.12.22-10.27.09:129][691]LogSavePackage: Moving '../../../../../../Users/User/Downloads/workspace/unreal/UnrealPractice/ToonTanks/Saved/BP_MyToonTanksPlayerControllerD8BD00374DED1D39CE56489A4F8E534C.tmp' to '../../../../../../Users/User/Downloads/workspace/unreal/UnrealPractice/ToonTanks/Content/Blueprints/PlayerController/BP_MyToonTanksPlayerController.uasset'
+[2024.12.22-10.27.09:141][691]LogFileHelpers: InternalPromptForCheckoutAndSave took 76.004 ms (total: 677.411 ms)
+[2024.12.22-10.27.09:158][691]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
+[2024.12.22-10.27.09:172][691]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2024.12.22-10.27.09:182][691]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2024.12.22-10.27.09:237][691]LogContentValidation: Display: Starting to validate 1 assets
+[2024.12.22-10.27.09:237][691]LogContentValidation: Enabled validators:
+[2024.12.22-10.27.09:237][691]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.12.22-10.27.09:237][691]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.12.22-10.27.09:237][691]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.12.22-10.27.09:237][691]LogContentValidation: Display: Validating asset /Game/Blueprints/PlayerController/BP_MyToonTanksPlayerController.BP_MyToonTanksPlayerController
+[2024.12.22-10.27.09:237][691]AssetCheck: /Game/Blueprints/PlayerController/BP_MyToonTanksPlayerController 에셋 유효성 검사 중
+[2024.12.22-10.27.28:635][897]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.22-10.27.28:689][897]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/GameMode/BP_ToonTanksGameMode] ([2] browsable assets)...
+[2024.12.22-10.27.28:689][897]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/GameMode/BP_ToonTanksGameMode]
+[2024.12.22-10.27.28:691][897]LogWorldPartition: Can't find class descriptor '/Game/Blueprints/GameMode/BP_ToonTanksGameMode.BP_ToonTanksGameMode_C' for saving '/Game/Blueprints/GameMode/BP_ToonTanksGameMode.BP_ToonTanksGameMode_C'
+[2024.12.22-10.27.28:691][897]LogWorldPartition: Can't find class descriptor '/Game/Blueprints/GameMode/BP_ToonTanksGameMode.BP_ToonTanksGameMode_C' for saving '/Game/Blueprints/GameMode/BP_ToonTanksGameMode.BP_ToonTanksGameMode_C'
+[2024.12.22-10.27.28:692][897]LogSavePackage: Moving output files for package: /Game/Blueprints/GameMode/BP_ToonTanksGameMode
+[2024.12.22-10.27.28:692][897]LogSavePackage: Moving '../../../../../../Users/User/Downloads/workspace/unreal/UnrealPractice/ToonTanks/Saved/BP_ToonTanksGameMode4579F785489F07C599C92B85E0F62D11.tmp' to '../../../../../../Users/User/Downloads/workspace/unreal/UnrealPractice/ToonTanks/Content/Blueprints/GameMode/BP_ToonTanksGameMode.uasset'
+[2024.12.22-10.27.28:701][897]LogFileHelpers: InternalPromptForCheckoutAndSave took 66.785 ms (total: 744.196 ms)
+[2024.12.22-10.27.28:738][897]LogContentValidation: Display: Starting to validate 1 assets
+[2024.12.22-10.27.28:738][897]LogContentValidation: Enabled validators:
+[2024.12.22-10.27.28:738][897]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.12.22-10.27.28:738][897]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.12.22-10.27.28:738][897]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.12.22-10.27.28:739][897]LogContentValidation: Display: Validating asset /Game/Blueprints/GameMode/BP_ToonTanksGameMode.BP_ToonTanksGameMode
+[2024.12.22-10.27.28:739][897]AssetCheck: /Game/Blueprints/GameMode/BP_ToonTanksGameMode 에셋 유효성 검사 중
+[2024.12.22-10.27.29:175][942]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2024.12.22-10.29.32:469][339]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 7678.480469
+[2024.12.22-10.29.33:470][342]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2024.12.22-10.29.33:470][342]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 7679.147461, Update Interval: 310.034485
+[2024.12.22-10.35.30:189][412]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 8036.220703
+[2024.12.22-10.35.31:189][415]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2024.12.22-10.35.31:189][415]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 8036.888672, Update Interval: 350.082703
+[2024.12.22-10.39.16:917][ 62]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.22-10.39.16:969][ 62]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/PlayerController/BP_MyToonTanksPlayerController] ([2] browsable assets)...
+[2024.12.22-10.39.16:969][ 62]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/PlayerController/BP_MyToonTanksPlayerController]
+[2024.12.22-10.39.16:972][ 62]LogSavePackage: Moving output files for package: /Game/Blueprints/PlayerController/BP_MyToonTanksPlayerController
+[2024.12.22-10.39.16:972][ 62]LogSavePackage: Moving '../../../../../../Users/User/Downloads/workspace/unreal/UnrealPractice/ToonTanks/Saved/BP_MyToonTanksPlayerController31B270854298BE460BBAF0ABB5A568D9.tmp' to '../../../../../../Users/User/Downloads/workspace/unreal/UnrealPractice/ToonTanks/Content/Blueprints/PlayerController/BP_MyToonTanksPlayerController.uasset'
+[2024.12.22-10.39.16:982][ 62]LogFileHelpers: InternalPromptForCheckoutAndSave took 64.467 ms (total: 808.664 ms)
+[2024.12.22-10.39.17:036][ 62]LogContentValidation: Display: Starting to validate 1 assets
+[2024.12.22-10.39.17:036][ 62]LogContentValidation: Enabled validators:
+[2024.12.22-10.39.17:036][ 62]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.12.22-10.39.17:036][ 62]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.12.22-10.39.17:036][ 62]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.12.22-10.39.17:036][ 62]LogContentValidation: Display: Validating asset /Game/Blueprints/PlayerController/BP_MyToonTanksPlayerController.BP_MyToonTanksPlayerController
+[2024.12.22-10.39.17:036][ 62]AssetCheck: /Game/Blueprints/PlayerController/BP_MyToonTanksPlayerController 에셋 유효성 검사 중
+[2024.12.22-10.39.18:523][236]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2024.12.22-10.39.52:027][726]LogLiveCoding: Display: Starting Live Coding compile.
+[2024.12.22-10.39.55:152][735]Display: Reload/Re-instancing Complete: No object changes detected
+[2024.12.22-10.39.55:152][735]LogLiveCoding: Error: Live coding failed, please see Live console for more information
+[2024.12.22-10.40.15:567][797]LogLiveCoding: Display: Starting Live Coding compile.
+[2024.12.22-10.40.17:658][803]LogLiveCoding: Display:    C:\Users\User\Downloads\workspace\unreal\UnrealPractice\ToonTanks\Binaries\Win64\UnrealEditor-ToonTanks.patch_8.lib 라이브러리 및 C:\Users\User\Downloads\workspace\unreal\UnrealPractice\ToonTanks\Binaries\Win64\UnrealEditor-ToonTanks.patch_8.exp 개체를 생성하고 있습니다.
+[2024.12.22-10.40.17:896][803]LogClass: UClass ToonTanksGameMode Reload.
+[2024.12.22-10.40.17:896][803]LogClass: Could not find existing class ToonTanksGameMode in package /Script/ToonTanks for reload, assuming new or modified class
+[2024.12.22-10.40.17:905][803]Re-instancing ToonTanksGameMode after reload.
+[2024.12.22-10.40.18:024][803]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2024.12.22-10.40.18:453][804]Display: Reload/Re-instancing Complete: 1 class changed, 1 class unchanged
+[2024.12.22-10.40.18:453][804]LogLiveCoding: Warning: Live coding succeeded, data type changes may cause packaging to fail if assets reference the new or updated data types
+[2024.12.22-10.40.21:031][936]LogDebuggerCommands: Repeating last play command: 선택된 뷰포트
+[2024.12.22-10.40.21:046][936]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.12.22-10.40.21:080][936]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Main
+[2024.12.22-10.40.21:083][936]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003346s)
+[2024.12.22-10.40.21:083][936]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Main.Main to /Game/Maps/UEDPIE_0_Main.Main (0.003385s)
+[2024.12.22-10.40.21:149][936]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2024.12.22-10.40.21:160][936]LogWorldMetrics: [UWorldMetricsSubsystem::Initialize]
+[2024.12.22-10.40.21:160][936]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM5) returned false, for scene: 'World /Game/Maps/UEDPIE_0_Main.Main'.
+[2024.12.22-10.40.21:161][936]LogPlayLevel: PIE: World Init took: (0.001179s)
+[2024.12.22-10.40.21:192][936]LogAudio: Display: Creating Audio Device:                 Id: 5, Scope: Unique, Realtime: True
+[2024.12.22-10.40.21:192][936]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.12.22-10.40.21:192][936]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.12.22-10.40.21:192][936]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.12.22-10.40.21:192][936]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.12.22-10.40.21:192][936]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.12.22-10.40.21:192][936]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.12.22-10.40.21:192][936]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.12.22-10.40.21:192][936]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.12.22-10.40.21:192][936]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.12.22-10.40.21:192][936]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.12.22-10.40.21:192][936]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.12.22-10.40.21:194][936]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.12.22-10.40.21:216][936]LogAudioMixer: Display: Using Audio Hardware Device 스피커(High Definition Audio Device)
+[2024.12.22-10.40.21:217][936]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.12.22-10.40.21:217][936]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.12.22-10.40.21:217][936]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.12.22-10.40.21:217][936]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=5
+[2024.12.22-10.40.21:217][936]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=5
+[2024.12.22-10.40.21:219][936]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=5
+[2024.12.22-10.40.21:219][936]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=5
+[2024.12.22-10.40.21:219][936]LogInit: FAudioDevice initialized with ID 5.
+[2024.12.22-10.40.21:219][936]LogAudio: Display: Audio Device (ID: 5) registered with world 'Main'.
+[2024.12.22-10.40.21:219][936]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 5
+[2024.12.22-10.40.21:225][936]LogLoad: Game class is 'BP_ToonTanksGameMode_C'
+[2024.12.22-10.40.21:226][936]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Main.Main up for play (max tick rate 0) at 2024.12.22-19.40.21
+[2024.12.22-10.40.21:227][936]LogWorld: Bringing up level for play took: 0.001156
+[2024.12.22-10.40.21:229][936]LogOnline: OSS: Created online subsystem instance for: :Context_17
+[2024.12.22-10.40.21:262][936]PIE: 서버가 로그인했습니다.
+[2024.12.22-10.40.21:263][936]PIE: 에디터에서 플레이 총 시작 시간 0.227초입니다.
+[2024.12.22-10.40.40:463][232]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.12.22-10.40.40:463][232]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Main
+[2024.12.22-10.40.40:463][232]LogWorld: UWorld::CleanupWorld for Main, bSessionEnded=true, bCleanupResources=true
+[2024.12.22-10.40.40:463][232]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.22-10.40.40:463][232]LogWorldMetrics: [UWorldMetricsSubsystem::Deinitialize]
+[2024.12.22-10.40.40:463][232]LogWorldMetrics: [UWorldMetricsSubsystem::Clear]
+[2024.12.22-10.40.40:466][232]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.12.22-10.40.40:472][232]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.22-10.40.40:486][232]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.12.22-10.40.40:493][232]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 5
+[2024.12.22-10.40.40:493][232]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5
+[2024.12.22-10.40.40:498][232]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5
+[2024.12.22-10.40.40:501][232]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.12.22-10.40.40:514][232]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
+[2024.12.22-10.40.40:593][233]LogPlayLevel: Display: Destroying online subsystem :Context_17
+[2024.12.22-10.40.41:768][370]LogDebuggerCommands: Repeating last play command: 선택된 뷰포트
+[2024.12.22-10.40.41:781][370]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.12.22-10.40.41:809][370]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Main
+[2024.12.22-10.40.41:812][370]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002849s)
+[2024.12.22-10.40.41:812][370]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Main.Main to /Game/Maps/UEDPIE_0_Main.Main (0.002882s)
+[2024.12.22-10.40.41:823][370]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2024.12.22-10.40.41:827][370]LogWorldMetrics: [UWorldMetricsSubsystem::Initialize]
+[2024.12.22-10.40.41:828][370]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM5) returned false, for scene: 'World /Game/Maps/UEDPIE_0_Main.Main'.
+[2024.12.22-10.40.41:828][370]LogPlayLevel: PIE: World Init took: (0.000863s)
+[2024.12.22-10.40.41:859][370]LogAudio: Display: Creating Audio Device:                 Id: 6, Scope: Unique, Realtime: True
+[2024.12.22-10.40.41:859][370]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.12.22-10.40.41:859][370]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.12.22-10.40.41:859][370]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.12.22-10.40.41:859][370]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.12.22-10.40.41:859][370]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.12.22-10.40.41:859][370]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.12.22-10.40.41:859][370]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.12.22-10.40.41:859][370]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.12.22-10.40.41:859][370]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.12.22-10.40.41:859][370]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.12.22-10.40.41:859][370]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.12.22-10.40.41:861][370]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.12.22-10.40.41:883][370]LogAudioMixer: Display: Using Audio Hardware Device 스피커(High Definition Audio Device)
+[2024.12.22-10.40.41:885][370]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.12.22-10.40.41:885][370]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.12.22-10.40.41:885][370]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.12.22-10.40.41:885][370]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=6
+[2024.12.22-10.40.41:885][370]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=6
+[2024.12.22-10.40.41:887][370]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=6
+[2024.12.22-10.40.41:887][370]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=6
+[2024.12.22-10.40.41:887][370]LogInit: FAudioDevice initialized with ID 6.
+[2024.12.22-10.40.41:887][370]LogAudio: Display: Audio Device (ID: 6) registered with world 'Main'.
+[2024.12.22-10.40.41:887][370]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 6
+[2024.12.22-10.40.41:889][370]LogLoad: Game class is 'BP_ToonTanksGameMode_C'
+[2024.12.22-10.40.41:890][370]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Main.Main up for play (max tick rate 0) at 2024.12.22-19.40.41
+[2024.12.22-10.40.41:890][370]LogWorld: Bringing up level for play took: 0.001090
+[2024.12.22-10.40.41:892][370]LogOnline: OSS: Created online subsystem instance for: :Context_18
+[2024.12.22-10.40.41:924][370]PIE: 서버가 로그인했습니다.
+[2024.12.22-10.40.41:925][370]PIE: 에디터에서 플레이 총 시작 시간 0.151초입니다.
+[2024.12.22-10.40.52:512][634]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.12.22-10.40.52:512][634]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Main
+[2024.12.22-10.40.52:512][634]LogWorld: UWorld::CleanupWorld for Main, bSessionEnded=true, bCleanupResources=true
+[2024.12.22-10.40.52:513][634]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.22-10.40.52:513][634]LogWorldMetrics: [UWorldMetricsSubsystem::Deinitialize]
+[2024.12.22-10.40.52:513][634]LogWorldMetrics: [UWorldMetricsSubsystem::Clear]
+[2024.12.22-10.40.52:515][634]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.12.22-10.40.52:521][634]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.22-10.40.52:534][634]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.12.22-10.40.52:534][634]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 6
+[2024.12.22-10.40.52:534][634]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6
+[2024.12.22-10.40.52:535][634]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6
+[2024.12.22-10.40.52:543][634]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2024.12.22-10.40.52:617][635]LogPlayLevel: Display: Destroying online subsystem :Context_18
