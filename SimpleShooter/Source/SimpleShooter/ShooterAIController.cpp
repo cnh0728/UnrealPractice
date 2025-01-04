@@ -5,6 +5,16 @@
 
 #include "Kismet/GameplayStatics.h"
 #include "BehaviorTree/BlackboardComponent.h"
+#include "ShooterCharacter.h"
+
+bool AShooterAIController::IsDead() const {
+	AShooterCharacter* ControlledCharacter = Cast<AShooterCharacter>(GetPawn());
+	if (ControlledCharacter) {
+		return ControlledCharacter->IsDead();
+	}
+
+	return true;
+}
 
 void AShooterAIController::BeginPlay() {
 	Super::BeginPlay();
